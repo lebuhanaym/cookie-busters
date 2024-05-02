@@ -104,5 +104,16 @@
 			"dumb_shadok", "Xweiss"
 		]
 	}
+		{
+		"id": "Babyweb",
+		"title": "[HACKDAY 2024] Babyweb",
+		"date": "2024-01-18",
+		"tags": [
+			"WEB"
+		],
+		"authors": [
+			"Card"
+		]
+	}
 
 ]
